@@ -1,0 +1,16 @@
+C:\Users\Tr\source\repos\csharp\Pansiyon_Otomasyonu\bin\Debug\Pansiyon_Otomasyonu.exe.config
+C:\Users\Tr\source\repos\csharp\Pansiyon_Otomasyonu\bin\Debug\Pansiyon_Otomasyonu.exe
+C:\Users\Tr\source\repos\csharp\Pansiyon_Otomasyonu\bin\Debug\Pansiyon_Otomasyonu.pdb
+C:\Users\Tr\source\repos\csharp\Pansiyon_Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Tr\source\repos\csharp\Pansiyon_Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmAdminGiris.resources
+C:\Users\Tr\source\repos\csharp\Pansiyon_Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmAnaSayfa.resources
+C:\Users\Tr\source\repos\csharp\Pansiyon_Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmKullaniciEkle.resources
+C:\Users\Tr\source\repos\csharp\Pansiyon_Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmMusteriler.resources
+C:\Users\Tr\source\repos\csharp\Pansiyon_Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmOdalar.resources
+C:\Users\Tr\source\repos\csharp\Pansiyon_Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmYeniMusteri.resources
+C:\Users\Tr\source\repos\csharp\Pansiyon_Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.FrmYonetici.resources
+C:\Users\Tr\source\repos\csharp\Pansiyon_Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.Properties.Resources.resources
+C:\Users\Tr\source\repos\csharp\Pansiyon_Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Tr\source\repos\csharp\Pansiyon_Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Tr\source\repos\csharp\Pansiyon_Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.exe
+C:\Users\Tr\source\repos\csharp\Pansiyon_Otomasyonu\obj\Debug\Pansiyon_Otomasyonu.pdb
