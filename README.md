@@ -61,9 +61,9 @@ Kullanıcı Yönetimi: FrmKullaniciEkle ile yeni kullanıcılar eklenebilir.
 
 Yönetici Girişi: Yöneticiler, FrmAdminGiris üzerinden sisteme giriş yapabilir.
 
-#Katkıda Bulunanlar
-#Cemre Özyakışır (Yazılım)
+# Katkıda Bulunanlar
+# Cemre Özyakışır (Yazılım)
 
-#Nilay Doran (Yazılım)
+# Nilay Doran (Yazılım)
 
-#Berkay Özdemir (Fikir , Yazılım)
+# Berkay Özdemir (Fikir , Yazılım)
